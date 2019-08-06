@@ -1,0 +1,7 @@
+C:\Users\josep\source\repos\Lab14BillInheritance\Lab14BillInheritance\bin\Debug\Lab14BillInheritance.exe.config
+C:\Users\josep\source\repos\Lab14BillInheritance\Lab14BillInheritance\bin\Debug\Lab14BillInheritance.exe
+C:\Users\josep\source\repos\Lab14BillInheritance\Lab14BillInheritance\bin\Debug\Lab14BillInheritance.pdb
+C:\Users\josep\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\Lab14BillInheritance.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\Lab14BillInheritance.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\Lab14BillInheritance.exe
+C:\Users\josep\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\Lab14BillInheritance.pdb
