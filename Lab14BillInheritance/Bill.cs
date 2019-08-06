@@ -11,6 +11,15 @@ namespace Lab14BillInheritance
         public double Subtotal { get; set; }
         public double TaxRate { get; set; }
 
+        public Bill()
+        {
+
+        }
+
+        public Bill(double subtotal, double taxrate)
+        {
+
+        }
         public virtual double CalcTotal()
         {
             double total = Subtotal * (1 + TaxRate);
